@@ -49,12 +49,4 @@ Building high-performance, scalable cross-platform mobile applications with mode
   <img height="180em" src="https://vercel.app"/>
 </div>
 
----
 
-<div align="center">
-  
-### 🤝 Connect with Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![X](https://shields.io)](https://x.com)
-
-</div>
