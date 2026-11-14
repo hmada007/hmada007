@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hmada007/hmada007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hamada Chneidhra 👋
+### Mobile App Developer | React Native & Expo Specialist 📱🚀
 
-Here are some ideas to get you started:
+Building high-performance, scalable cross-platform mobile applications with modern full-stack technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 About Me
+- 🌱 Focused on building seamless mobile experiences using **React Native**, **Expo**, and **TypeScript**
+- 🗄️ Experienced in backend architecture, real-time databases, and authentication with **Supabase**, **Firebase**, and **PostgreSQL**
+- 💬 Ask me about **Mobile Development, Cross-Platform Apps, and Backend Integration**
+- 📫 How to reach me: masyknooz@gmail.com
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 📱 Mobile & Frontend
+![React Native](https://shields.io)
+![Expo](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![TailwindCSS](https://shields.io)
+![Redux](https://shields.io)
+
+#### ☁️ Backend & Databases
+![Supabase](https://shields.io)
+![Firebase](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Node.js](https://shields.io)
+![REST API](https://shields.io)
+
+#### ⚙️ Tools & DevOps
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![VS Code](https://shields.io)
+![Postman](https://shields.io)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
+</div>
+
+---
+
+<div align="center">
+  
+### 🤝 Connect with Me
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![X](https://shields.io)](https://x.com)
+
+</div>
